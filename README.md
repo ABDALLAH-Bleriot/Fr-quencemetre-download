@@ -1,2 +1,2 @@
-# Fr-quencemetre-download
+# Frequencemetre-download
 application officielle de Fréquencemètre manuel 
